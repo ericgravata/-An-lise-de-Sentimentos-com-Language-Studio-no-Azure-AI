@@ -1,5 +1,6 @@
 ## Análise-de-Sentimentos-com-Language-Studio-no-Azure-AI
 [LINK AZURE SPEECH - VERSÃO ANTIGA](https://speech.microsoft.com/portal/?NewUX=false)
+
 [LINK PLATAFORMA DE SERVIÇOS DO AZURE](https://portal.azure.com/#home)
 
 - Não consegui executar a prática de forma dinâmica devido à falta de uma assinatura válida.
